@@ -26,7 +26,7 @@ npm start
 # then open http://localhost:3000
 ```
 
-## Example GitHub Actions Workflow: Node.js CI
+## Example GitHub Actions Workflow: Node.js CI Yes
 
 ```txt
 name: Node.js CI
