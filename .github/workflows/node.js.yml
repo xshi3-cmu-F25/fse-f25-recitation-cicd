@@ -25,4 +25,4 @@ jobs:
       - run: npm test
 
       - name: Deploy on Cloud
-        run: https://api.render.com/deploy/srv-d36rubumcj7s73e1nhr0?key=IOyvdWdwV4E
+        run: curl "https://api.render.com/deploy/srv-d36rubumcj7s73e1nhr0?key=IOyvdWdwV4E"
